@@ -1,12 +1,12 @@
 {
   "@context": "https://www.w3.org/ns/activitystreams",
-  "id": "https://vghxv.github.io/fake_robot/users/robot",
+  "id": "https://vghxv.github.io/activitypub-actor/users/robot.json",
   "type": "Robot",
   "preferredUsername": "robot",
-  "inbox": "https://vghxv.github.io/fake_robot/users/robot/inbox",
+  "inbox": "https://vghxv.github.io/activitypub-actor/users/robot/inbox",
   "publicKey": {
-    "id": "https://vghxv.github.io/fake_robot/users/robot#main-key",
-    "owner": "https://vghxv.github.io/fake_robot/users/robot",
+    "id": "https://vghxv.github.io/activitypub-actor/users/robot.json#main-key",
+    "owner": "https://vghxv.github.io/activitypub-actor/users/robot.json",
     "publicKeyPem": "-----BEGIN RSA PUBLIC KEY-----
 MIIBigKCAYEA1U8u146kBKR2KqammqPrZPiXgJmCwbcVp+yVXVs3xg/ip5dg3FqE
 ynVmtGBq3/w/9vlWJGRWXZguVLE6UHi95m0RgJmBz64ioVDUfnA3Ve/0taCwoqEb
