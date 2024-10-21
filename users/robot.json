@@ -1,12 +1,12 @@
 {
   "@context": "https://www.w3.org/ns/activitystreams",
-  "id": "https://vghxv.github.io/activitypub-actor/users/robot",
+  "id": "https://glittering-brioche-a00892.netlify.app/users/robot",
   "type": "Robot",
   "preferredUsername": "robot",
-  "inbox": "https://vghxv.github.io/activitypub-actor/users/robot/inbox",
+  "inbox": "https://glittering-brioche-a00892.netlify.app/users/robot/inbox",
   "publicKey": {
-    "id": "https://vghxv.github.io/activitypub-actor/users/robot#main-key",
-    "owner": "https://vghxv.github.io/activitypub-actor/users/robot",
+    "id": "https://glittering-brioche-a00892.netlify.app/users/robot#main-key",
+    "owner": "https://glittering-brioche-a00892.netlify.app/users/robot",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoNoS5rwaAt+bOBrqEQ6G
 IRD8fjzQMBtc0a2rLA23tvaiV/5ouR1qaLuwuzm6x8flqh3hPDBKhyEcCZ/76hP8
