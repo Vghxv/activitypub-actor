@@ -7,16 +7,14 @@
   "publicKey": {
     "id": "https://vghxv.github.io/activitypub-actor/users/robot#main-key",
     "owner": "https://vghxv.github.io/activitypub-actor/users/robot",
-    "publicKeyPem": "-----BEGIN RSA PUBLIC KEY-----
-MIIBigKCAYEA1U8u146kBKR2KqammqPrZPiXgJmCwbcVp+yVXVs3xg/ip5dg3FqE
-ynVmtGBq3/w/9vlWJGRWXZguVLE6UHi95m0RgJmBz64ioVDUfnA3Ve/0taCwoqEb
-wZ8+pP6vW0hVomTlYcYBDmsYTAum/gB6RTfAOsFW07Ylmp+v9rY+K5g3UOW6eP5o
-oq5tkgulBoqSuGOcQz2LPlQ6jEFrNG1DYEoqrEZChZWJUZUh52QTiLqV/iLAk+MS
-++bmy9r59jXCztmroEIJ4bd3X19LM+id6n2wkfks6wTxpmYd8rTiLczFaG3TmKxm
-tOp9MaKP91iNUjtCUtKvbgHU926e6ONfKjpNn5uAw6DXohp5retQlYjXiMXMaA8j
-pbuDthKVBlYOjMLVtSW2lJdOBOaTKpffftbpS7CfQMxdpwt164/CQ8j+0u6/sGvZ
-l6s2noluVm2/3+noBzFwRUGavh/FITCvbPNyb8rXQQLa375yJvwNUQKP1+FAfG5S
-nFPkarztTTLfAgMBAAE=
------END RSA PUBLIC KEY-----"
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoNoS5rwaAt+bOBrqEQ6G
+IRD8fjzQMBtc0a2rLA23tvaiV/5ouR1qaLuwuzm6x8flqh3hPDBKhyEcCZ/76hP8
+0jO/MShehY/+PYHFDXgogLi5L35ip0f3xCnExSrxeydng82IuImR9+ozm5awFjko
+kOmCO0MhhGvaPMPdClx7XiBw8VapCoCiHmXFSo+r7YNOEKufYQjDr4YFGnSp84IS
+Znk3NU6Rp4GRiTFE+CySQ3yBUoM4o1CjSvTLvaeR7aBwwTnhf0/GPZlXG0AYLl4w
+i8nZsUJjArMyclqJvyn5GUzPrcBTX45h6oYFTnXLYmOTHB/6Y20Gmzc1DuNUxBh0
+OwIDAQAB
+-----END PUBLIC KEY-----"
   }
 }
